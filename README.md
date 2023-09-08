@@ -7,5 +7,5 @@
 # 글삭제
 ![글삭제](https://github.com/kangjungmook/notice_board/assets/106642094/596f7e57-4490-49ed-ac0b-b5a83cf05c2a)
 
-# 게시글 리스트, 게시글 등록 이동
+# 게시글 리스트,  게시글 등록 이동
 ![게시글 리스트, 게시글 등록 이동](https://github.com/kangjungmook/notice_board/assets/106642094/25485ddb-bc24-4e3e-8723-52ae02dbeef6)
